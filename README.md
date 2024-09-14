@@ -1,4 +1,4 @@
-# Data Science Job Analysis in the UK
+# UK Data Science Job Data Cleaning & Analysis 
 
 ## Project Overview
 This project focuses on analyzing Data Science job listings in the UK, with a focus on comparing remote and onsite roles, average salary trends, and key geographical hotspots for these jobs.
